@@ -1,0 +1,1 @@
+{"channel":"stable","expires":"2027-02-14T11:06:36Z","format":1,"generated":"2026-11-16T11:06:36Z","releases":[{"manifest":{"path":"releases/1.0.0/manifest.json","sha256":"08e1e53430699aa84bf303b3eecdf79bfdd0cee15cfc68ddcde442a9ad37b8a2"},"min_upgrade_from":null,"published":"2026-11-16T11:06:36Z","summary":"Just Workspace 의 첫 Stable 릴리스.","version":"1.0.0"}],"sequence":1}
